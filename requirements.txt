@@ -1,0 +1,5 @@
+gradio 
+yt-dlp 
+google-generativeai 
+youtube-transcript-api 
+pandas
